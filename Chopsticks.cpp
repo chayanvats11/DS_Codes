@@ -20,3 +20,14 @@ int pairSticks(vector<int> length, int D)
 
     return cnt;
 }
+
+int main()
+{
+    int D;
+    cin >> D;
+
+    vector<int>vec;
+    int val = pairSticks(vec,D);
+    cout << val;
+
+}
