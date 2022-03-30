@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
- //Heloo chayan, pehchana
+
 pair<int,int>staircaseSearch(int arr[][10],int n,int m,int key)
 {
     //if element is NOT present
